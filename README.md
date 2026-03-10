@@ -27,5 +27,6 @@ If you use this macro in your research, cite it as follows:
 Kai McAlister, Natalie G. Scholpa, Rick G. Schnellmann. (2026). Renal Cortex Fibrosis Scorer for ImageJ. GitHub. Repository: https://github.com/kaimcalister/RenalCortexFibrosisScorer
 
 Also, please cite the authors of the "Colour Deconvolution" plugin:
+
 (1) Landini G, Martinelli G, Piccinini F. Colour Deconvolution – stain unmixing in histological imaging. Bioinformatics 2020, https://doi.org/10.1093/bioinformatics/btaa847
 (2) Ruifrok AC, Johnston DA. Quantification of histochemical staining by color deconvolution. Analytical and Quantitative Cytology and Histology 23: 291-299, 2001.
